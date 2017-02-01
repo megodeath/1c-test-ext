@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Catalog uuid="68430ff5-2a47-4fc1-bf57-275a340448ab">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.БазовыеКатегорииЦен" category="Object">
+				<xr:TypeId>25e7d277-445d-4df7-b29d-e6ad8a79c297</xr:TypeId>
+				<xr:ValueId>d17f4359-83ab-49a0-ae6f-d7780406decd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.БазовыеКатегорииЦен" category="Ref">
+				<xr:TypeId>b18084f5-ac52-4ae6-bd1e-9413d8158bb3</xr:TypeId>
+				<xr:ValueId>5ade3bbe-df24-42d3-8219-10d4de402cc6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.БазовыеКатегорииЦен" category="Selection">
+				<xr:TypeId>8ea75d03-28ea-4d4a-83d2-12fc6bd796de</xr:TypeId>
+				<xr:ValueId>170dc9f7-206e-4ab3-94b8-53152bb71b79</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.БазовыеКатегорииЦен" category="List">
+				<xr:TypeId>9d037953-ccc9-4243-9ae4-43152b476a7d</xr:TypeId>
+				<xr:ValueId>e0817f07-01d5-4509-bb06-0562a3de3267</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.БазовыеКатегорииЦен" category="Manager">
+				<xr:TypeId>574b1516-fde7-4391-8979-7b0989cf3359</xr:TypeId>
+				<xr:ValueId>05c2ad80-c1b4-4c26-ad99-f54fc978a305</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>БазовыеКатегорииЦен</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<CodeLength>5</CodeLength>
+			<DescriptionLength>25</DescriptionLength>
+			<CodeType>Number</CodeType>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаСписка</Form>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

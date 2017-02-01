@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Catalog uuid="ef403750-0d47-432e-9b63-f1a0a1c4e0d7">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.АдресаЕМейл" category="Object">
+				<xr:TypeId>5c0c75d2-28ac-4909-a9a2-3b34253cf867</xr:TypeId>
+				<xr:ValueId>76064c9a-f6ff-42f0-b221-b55f38960c39</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.АдресаЕМейл" category="Ref">
+				<xr:TypeId>71813ea6-faa2-4e04-9998-9d782699f0d4</xr:TypeId>
+				<xr:ValueId>93b5441d-7cb4-4c75-b73d-5bbffdb70d32</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.АдресаЕМейл" category="Selection">
+				<xr:TypeId>e3a74fce-427b-473c-af76-d8d88e296f6b</xr:TypeId>
+				<xr:ValueId>7d8dc2cb-0e27-46d3-afa5-81f56b4a903d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.АдресаЕМейл" category="List">
+				<xr:TypeId>2b83755f-0466-4ffe-a8fe-b0ad634afbb9</xr:TypeId>
+				<xr:ValueId>cf8452c3-10d3-45b4-818a-50b26bb5f929</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.АдресаЕМейл" category="Manager">
+				<xr:TypeId>1189dff2-8357-47db-8f2a-5595bbc3f8de</xr:TypeId>
+				<xr:ValueId>0d7cc34b-ea64-418f-901b-8b76ecc9f6c9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>АдресаЕМейл</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<DefaultObjectForm>Catalog.АдресаЕМейл.Form.test1_ФормаЭлемента</DefaultObjectForm>
+		</Properties>
+		<ChildObjects>
+			<Form>test1_ФормаЭлемента</Form>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

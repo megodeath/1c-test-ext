@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Document uuid="9a62d9fa-c062-4d4c-acc6-ff3a0b91cbc1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.БанковскаяВыпискаВалютная" category="Object">
+				<xr:TypeId>912768c5-f6ba-4361-a375-b88fd5d7745e</xr:TypeId>
+				<xr:ValueId>c5b217df-9528-410a-8bc1-010aa40c0636</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.БанковскаяВыпискаВалютная" category="Ref">
+				<xr:TypeId>860b03a9-7493-4ba6-b2c5-805c4f8cdaaa</xr:TypeId>
+				<xr:ValueId>2e1c2c96-9d5c-4e2e-847f-bb2632c3d311</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.БанковскаяВыпискаВалютная" category="Selection">
+				<xr:TypeId>004fe2ae-cc7c-419f-a638-ef3e3cc14ce4</xr:TypeId>
+				<xr:ValueId>fc369144-e1d4-4d32-addf-eaf17f331d1c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.БанковскаяВыпискаВалютная" category="List">
+				<xr:TypeId>ab37a6e5-4b7c-4e17-9dce-3bb1e8ad78bc</xr:TypeId>
+				<xr:ValueId>5d0e9aeb-daf8-4d0f-956a-a22e87f53260</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.БанковскаяВыпискаВалютная" category="Manager">
+				<xr:TypeId>562fcbce-aa7d-4593-a76e-44799ecf3207</xr:TypeId>
+				<xr:ValueId>849b98eb-cb8a-43eb-8991-1f15fa5de6e0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>БанковскаяВыпискаВалютная</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
