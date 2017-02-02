@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Catalog uuid="d4764ba1-83db-4ad4-a8e6-337ee2b7d6f7">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Филиалы" category="Object">
+				<xr:TypeId>42e04869-02df-4079-94fd-9320a22f6789</xr:TypeId>
+				<xr:ValueId>9fc4c7d6-067f-47ea-b99d-031f82af5939</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Филиалы" category="Ref">
+				<xr:TypeId>44e2f8ff-61a8-412a-8fc6-7f585c9668d7</xr:TypeId>
+				<xr:ValueId>b60820c3-9c46-4038-80e3-ea9d35ef5659</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Филиалы" category="Selection">
+				<xr:TypeId>0f2a5ed3-de7b-4355-a87c-5d2c617ee87f</xr:TypeId>
+				<xr:ValueId>36ce4869-e5fa-496c-9a0e-9f81bef883e8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Филиалы" category="List">
+				<xr:TypeId>7f4bb9ca-fd94-4fbe-8f7d-87c0b9763ebd</xr:TypeId>
+				<xr:ValueId>470a4d36-defa-4ef6-ae76-e900bb145ab5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Филиалы" category="Manager">
+				<xr:TypeId>f501d783-d888-42bd-b838-909d2f0c0ed2</xr:TypeId>
+				<xr:ValueId>49974e46-4920-4d4b-a9b8-ce912b2524b6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Филиалы</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

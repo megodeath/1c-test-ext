@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Document uuid="494f5359-7611-4715-a857-44805fefab05">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗакрытиеМесяца" category="Object">
+				<xr:TypeId>d8ddd344-4e24-4b08-aaf7-fa2baef6bb66</xr:TypeId>
+				<xr:ValueId>f83141db-4f0a-4680-94a8-7376cd9298fb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗакрытиеМесяца" category="Ref">
+				<xr:TypeId>44b5ab95-df71-4cc4-9815-f7b6c121f262</xr:TypeId>
+				<xr:ValueId>73c0c6f5-a8d4-448b-90e0-a9bc988767bf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗакрытиеМесяца" category="Selection">
+				<xr:TypeId>1de15813-b55a-4b93-85e3-8d9d8a59b628</xr:TypeId>
+				<xr:ValueId>954825bb-a087-4f80-9149-2a5b003c5d50</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗакрытиеМесяца" category="List">
+				<xr:TypeId>4aaa0ccb-30f4-4862-95ae-01e416710cda</xr:TypeId>
+				<xr:ValueId>500654a8-0c41-46af-9327-afac348349b9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗакрытиеМесяца" category="Manager">
+				<xr:TypeId>b62d028b-8f53-43e0-a7a2-75aec1d598be</xr:TypeId>
+				<xr:ValueId>3723bfbe-c0c2-49a6-82d2-1de4316438b4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ЗакрытиеМесяца</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<NumberType>String</NumberType>
+			<NumberLength>10</NumberLength>
+			<NumberAllowedLength>Variable</NumberAllowedLength>
+			<DefaultObjectForm>Document.ЗакрытиеМесяца.Form.test1_ФормаДокумента</DefaultObjectForm>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="0e97a937-52f8-42ff-bc3c-944a69a4ed86">
+				<Properties>
+					<Name>ПереоценкаВалютныхСредствУпр</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="6c9e289e-3dd7-4a40-934c-3498831e61a6">
+				<Properties>
+					<Name>Примечание</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="38f64f1f-a451-4005-98cb-b1c5f8a5b6cd">
+				<Properties>
+					<Name>ВидУчета</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:EnumRef.ВидыУчета</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="c824f28b-70ef-444e-848f-cfd951873bde">
+				<Properties>
+					<Name>КорректировкаСебестоимости</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="bfd61117-344d-43a7-a8c5-6e48581256f3">
+				<Properties>
+					<Name>ПереоценкаВалютныхСредств</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="922a5375-c718-443a-bfc7-ae196a004b83">
+				<Properties>
+					<Name>СписаниеСебестоимостиНормативнойУпр</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Form>ФормаСписка</Form>
+			<Form>test1_ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>
