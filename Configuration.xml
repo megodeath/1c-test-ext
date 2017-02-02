@@ -52,10 +52,17 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonAttribute>Автор</CommonAttribute>
+			<CommonAttribute>Филиал</CommonAttribute>
 			<Catalog>Автовокзалы</Catalog>
 			<Catalog>БазовыеКатегорииЦен</Catalog>
 			<Catalog>АдресаЕМейл</Catalog>
+			<Catalog>НомераГТД</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>Филиалы</Catalog>
 			<Document>БанковскаяВыпискаВалютная</Document>
+			<Document>ЗакрытиеМесяца</Document>
+			<Enum>ВидыУчета</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
